@@ -9,7 +9,8 @@ Benvenuto!
 Scegli un documento da visualizzare:
 
 - [LENA-R8](LENA-R8.htm)
-- [LEXI-R10](LEXI-R10.htm)
+- [LEXI-R10 HTML](LEXI-R10.htm)
+- [LEXI-R10 PDF](R10-AT_MAN.pdf)
 - [ADAM-R11](ADAM-R11.htm)
 
 ---
